@@ -3,7 +3,7 @@ from telebot import types
 import requests
 from datetime import datetime
 
-TOKEN = '5758333321:AAGUFuqY864Mtfy9Yo9ZCF1ERZVOeNV2gTQ'
+TOKEN = ''
 bot = telebot.TeleBot(TOKEN)
 
 question_ids = dict()
